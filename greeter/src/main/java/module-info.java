@@ -1,0 +1,4 @@
+module greeter {
+
+	exports greeter;
+}
